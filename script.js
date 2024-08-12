@@ -13,7 +13,7 @@ function toggleMode() {
       "Foto de João Vitor, usando casaco branco, barba e fundo com luz apagada"
     )
   } else {
-    img.setAttribute("src", "./assets/Avatar.png")
+    img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute(
       "alt",
       "Foto de João Vitor, usando casaco branco, barba e fundo degrade rosa para azul"
